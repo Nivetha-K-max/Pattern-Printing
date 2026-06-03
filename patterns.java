@@ -120,7 +120,7 @@ OUTPUT:
         4 3 2 1
         0 -1 -2 -3 -4
 
-        package com.rideallocation;
+
 import java.util.Arrays;
 import java.util.Map;
 import java.util.HashMap;
