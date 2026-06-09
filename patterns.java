@@ -18,8 +18,6 @@ OUTPUT:
         ****
         *****
 
-
-
 public class Main {
     static void main() {
         int n=5;
